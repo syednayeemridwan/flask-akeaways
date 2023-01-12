@@ -1,0 +1,2 @@
+The notes contain take-away from Flask course by Jose
+
